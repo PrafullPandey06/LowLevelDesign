@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdaptorDPTurkeyToDuck.iml" filepath="$PROJECT_DIR$/AdaptorDPTurkeyToDuck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DuckDesign/DuckDesign.iml" filepath="$PROJECT_DIR$/DuckDesign/DuckDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LowLevelDesign.iml" filepath="$PROJECT_DIR$/.idea/LowLevelDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PizzaDesign.iml" filepath="$PROJECT_DIR$/PizzaDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/penDesign.iml" filepath="$PROJECT_DIR$/penDesign.iml" />
+    </modules>
+  </component>
+</project>
